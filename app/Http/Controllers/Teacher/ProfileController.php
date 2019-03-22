@@ -101,7 +101,7 @@ class ProfileController extends Controller
     }
 
     public function allassignment(){
-        $assignments = Assignment::all();
+        $assignments = Assignment::where('teacher', Auth::user()->name)->get();
         return view('teacher.allassignment', compact('assignments'));
     }
 }

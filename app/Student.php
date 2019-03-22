@@ -36,5 +36,10 @@ class Student extends Authenticatable
     public function attandance()
     {
         return $this->hasOne('App\Attendance');
+    }    
+
+    public function assignments()
+    {
+        return $this->hasMany('App\Assignment');
     }
 }

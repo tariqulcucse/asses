@@ -9,7 +9,7 @@
 					</div>
 					<div class="float-right">
 						<a class="dn_btn" href="tel:+4400123654896">+8801764785964</a>
-						<a class="dn_btn" href="mailto:support@colorlib.com">asses@ment.com</a>
+						<a class="dn_btn" href="mailto:support@colorlib.com">tariqulcucse@.com</a>
 					</div>
            		</div>	
            	</div>	
